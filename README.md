@@ -3,7 +3,7 @@ FTP passive mode send evil payload tool, support fastcgi and redis payload (gene
 
 # Usage
 
-`python passive_ftp.py -h`
+`python2 passive_ftp.py -h`
 
 ![](./imgs/usage.png)
 
